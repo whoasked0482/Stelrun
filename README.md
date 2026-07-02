@@ -27,6 +27,8 @@ Stellive Fan Game / 2차창작가이드라인을 준수하여 만들어졌습니
 
 슈퍼마리오와 비슷한 플레이 방식입니다.
 
+각 파스텔 별로 고유의 스킬이 있습니다.
+
 # 2차창작가이드라인
 본 제작물은 **(주)스텔라이브**의 지식재산권(IP)을 존중하며, 팬덤의 건전한 창작 문화를 위해 아래의 수칙을 철저히 지킵니다.
 
@@ -56,14 +58,14 @@ Stellive Fan Game / 2차창작가이드라인을 준수하여 만들어졌습니
 또는 디스코드 @Whoasked0482 DM
 
 # License
-<a href="https://github.com/minyang-tech/Stelrun">Stelrun</a> © 2026 by <a href="https://github.com/minyang-tech">민양테크</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+<a href="https://github.com/minyangtech/Stelrun">Stelrun</a> © 2026 by <a href="https://github.com/minyangtech">Whoasked0482</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
 
 ### 본 프로젝트는 민양테크 표준 최종 사용자 계약 (Standard MinyangTech EULA)가 적용받지 않습니다.
 
-Copyright 2026. 민양테크. All rights reserved.
+Copyright 2026. Whoasked0482. All rights reserved.
 
 # AI 기술 활용 고지  
 본 애플리케이션은 [「인공지능 산업 육성 및 신뢰 기반 조성 등에 관한 기본법」](https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EB%B0%9C%EC%A0%84%EA%B3%BC%EC%8B%A0%EB%A2%B0%EA%B8%B0%EB%B0%98%EC%A1%B0%EC%84%B1%EB%93%B1%EC%97%90%EA%B4%80%ED%95%9C%EA%B8%B0%EB%B3%B8%EB%B2%95)에 의거하여, 제작 과정에서 인공지능(AI) 기술이 활용되었음을 밝힙니다.  
 ai가 사용된 부분은 아래와 같습니다.  
 1. 본 애플리케이션("게임")에서 멤버들의 그림 및 아트 부분 [「(주)스텔라이브의 2차창작가이드라인」](https://stellive.me/guideline)에 준수하여, AI를 사용하지 않고 리퀘스트를 받을 예정입니다.
-2. 본 애플리케이션의 개발 과정 중 바이브코딩.
+2. ~~본 애플리케이션의 개발 과정 중 바이브코딩.~~ 손코딩으로 수정예정
